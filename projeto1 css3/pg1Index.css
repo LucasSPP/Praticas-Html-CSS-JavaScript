@@ -1,0 +1,13 @@
+h2{font-family: Arial, Helvetica, sans-serif;
+    color:#3CB371;
+    text-align: center;
+    padding-top: 100px;
+    border: 2px solid black; 
+    margin-bottom: 1px;
+}
+#header{background-color: aqua; height: 200px;}
+#contents{background-color: grey; float: left; width: 900px; height: 250px; padding-top: 100px }
+#mcontents{background-color:rgb(221, 160, 221) ;float: left; width:900px; height: 250px; margin-left: 48px; padding-top: 100px; }
+
+#footer{background-color: rgb(221, 160, 221);  bottom: 1500px; width: 1955px; float: right; height: 200px;
+}
